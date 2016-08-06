@@ -1,0 +1,29 @@
+_repo: What-Germany-Thinks--13-Or-The-War-as-Germans-see-it_10166
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Thomas F. A.
+    birthdate: 1875
+    gutenberg_agent_id: '3343'
+    url: http://www.gutenberg.org/2009/agents/3343
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10166'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+- GITenberg
+tableOfContents: The causes of the war -- On the leash -- The dogs let loose -- Mobilization
+  -- Wars and rumours of wars -- The débâcle of the Social Democrats -- "Necessity
+  knows no law" -- Atrocities -- The neutrality of Belgium and Germany's annexation
+  propaganda -- Saigner à blanc -- The intellectuals and the war -- The literature
+  of hate -- "Man to man and steel to steel".
+title: "What Germany Thinks\r\nOr, The War as Germans see it"
+url: http://www.gutenberg.org/ebooks/10166
