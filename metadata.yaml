@@ -1,5 +1,8 @@
 _repo: What-Germany-Thinks--13-Or-The-War-as-Germans-see-it_10166
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smith, Thomas F. A.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '3343'
     url: http://www.gutenberg.org/2009/agents/3343
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10166#What-Germany-Thinks--13-Or-The-War-as-Germans-see-it
 gutenberg_bookshelf: Germany
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
